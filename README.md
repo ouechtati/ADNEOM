@@ -1,5 +1,5 @@
 # ADNEOM
-pour ce projet porte mon Nom  ouechtati :
+pour ce projet porte mon Nom ouechtati :
 
  groupId:marouene
  artifactid:ouechtati
